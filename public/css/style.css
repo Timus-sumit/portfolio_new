@@ -168,6 +168,10 @@ figure {
 img {
   vertical-align: middle;
   border-style: none; }
+.img-box{
+  display: flex;
+  justify-content: center;
+}
 
 svg {
   overflow: hidden;
@@ -9118,7 +9122,8 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; }
+  background-position: center center; 
+}
 
 .portfolio-wrap {
   display: block;
